@@ -1,0 +1,16 @@
+groovy
+basic
+perl
+cobol
+javascript
+pascal
+php
+ruby
+python
+java
+fortran
+scala
+assembly
+delphi
+haskell
+portugol

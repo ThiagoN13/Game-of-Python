@@ -1,0 +1,9 @@
+mouse
+teclado
+monitor
+processador
+fone
+microfone
+gabinete
+fonte
+memoria
